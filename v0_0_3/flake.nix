@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-til-v0_0_3.flake = false;
+  inputs.src-til-v0_0_3.ref   = "refs/tags/v0.0.3";
   inputs.src-til-v0_0_3.owner = "danielecook";
-  inputs.src-til-v0_0_3.ref   = "v0_0_3";
   inputs.src-til-v0_0_3.repo  = "til-tool";
   inputs.src-til-v0_0_3.type  = "github";
   
