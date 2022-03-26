@@ -11,6 +11,7 @@
   inputs.src-til-v0_0_2.ref   = "refs/tags/v0.0.2";
   inputs.src-til-v0_0_2.owner = "danielecook";
   inputs.src-til-v0_0_2.repo  = "til-tool";
+  inputs.src-til-v0_0_2.dir   = "";
   inputs.src-til-v0_0_2.type  = "github";
   
   inputs."colorize".owner = "nim-nix-pkgs";

@@ -11,6 +11,7 @@
   inputs.src-til-master.ref   = "refs/heads/master";
   inputs.src-til-master.owner = "danielecook";
   inputs.src-til-master.repo  = "til-tool";
+  inputs.src-til-master.dir   = "";
   inputs.src-til-master.type  = "github";
   
   inputs."colorize".owner = "nim-nix-pkgs";
